@@ -49,4 +49,10 @@ mkdir controllers db models middlewares routes utils
 
  its difficult to make .gitkeep inside empty files
 
- 
+prettier => sirf extension nahi but also need settings
+
+dev dependencies=> with -D
+
+npm i -D prettier
+
+.prettierignore => kon kon say files may prettier ko ignore karna hai eg. the env file where the structure is a bit tricky
